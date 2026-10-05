@@ -1,4 +1,4 @@
-      name: Build FLIGHT//LUX APK
+name: Build FLIGHT//LUX APK
 
 on:
   workflow_dispatch:
