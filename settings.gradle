@@ -15,4 +15,5 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "FLIGHT_LUX"
+
 include(":app")
